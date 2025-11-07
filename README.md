@@ -38,7 +38,7 @@ This drastically reduces energy consumption, eliminates grid dependency, and sup
 
 ---
 
-## 🛠 Technology Stack
+## Technology Stack
 
 | Component | Purpose |
 |----------|---------|
