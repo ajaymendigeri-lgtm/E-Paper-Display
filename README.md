@@ -1,4 +1,4 @@
-# 🌱 Sustainable Solar-Powered E-Paper Digital Advertising System
+# Sustainable Solar-Powered E-Paper Digital Advertising System
 
 ![E-Paper Display](Images/e_paper.jpg)
 
@@ -6,7 +6,7 @@ This project presents an eco-friendly digital advertising solution that replaces
 
 ---
 
-## 🧠 Problem Statement
+## Problem Statement
 
 Digital advertising has become essential in communication and marketing but typically depends on **LED/LCD displays**, which:
 
@@ -19,7 +19,7 @@ There is a demand for a **greener, cost-efficient, and sustainable advertising a
 
 ---
 
-## ✅ Proposed Solution
+## Proposed Solution
 
 We introduce a **Solar-Powered E-Paper Display System** where:
 
@@ -33,7 +33,7 @@ This drastically reduces energy consumption, eliminates grid dependency, and sup
 
 ---
 
-## 🧱 System Architecture (Overview)
+## System Architecture (Overview)
 
 
 ---
@@ -51,19 +51,19 @@ This drastically reduces energy consumption, eliminates grid dependency, and sup
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
-- ✅ **100% Solar Powered** — Completely off-grid
-- 🔋 **Ultra-Low Power Consumption**
-- ☀️ **High Readability in Sunlight**
-- 🌍 **Eco-Friendly and Sustainable**
-- 🌐 **Remote Content Updates via Raspberry Pi**
-- 🏗 **Weather-Resistant and Minimal Maintenance**
-- 🔁 **Scalable for Smart Cities / Rural Displays**
+- **100% Solar Powered** — Completely off-grid
+- **Ultra-Low Power Consumption**
+- **High Readability in Sunlight**
+- **Eco-Friendly and Sustainable**
+- **Remote Content Updates via Raspberry Pi**
+- **Weather-Resistant and Minimal Maintenance**
+- **Scalable for Smart Cities / Rural Displays**
 
 ---
 
-## 💡 Innovation & Uniqueness
+## Innovation & Uniqueness
 
 Unlike LED/LCD displays, **E-Paper consumes power only when the screen content changes**, making it ideal for continuous outdoor advertisements. Paired with **solar energy and MPPT**, this system:
 
@@ -75,7 +75,7 @@ This solution modernizes advertising while **protecting the environment**.
 
 ---
 
-## 🌍 Impact & Scalability
+## Impact & Scalability
 
 | Impact Area | Benefit |
 |-------------|---------|
