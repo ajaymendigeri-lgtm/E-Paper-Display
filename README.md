@@ -8,7 +8,7 @@ E-Paper consumes extremely low power and works excellently in sunlight, making i
 ## 🚀 Features
 - Solar-powered operation with MPPT
 - Raspberry Pi 3B+ control unit
-- 7.5-inch E-Paper display
+- 7.6-inch E-Paper display
 - Ultra-low power consumption
 - Remote content update support
 
